@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+
 }
 
 .container {
@@ -22,6 +23,7 @@
   margin: auto;
   display: flex;
   align-items: center;
+  font-size: 25px;
 }
 
 nav {
@@ -74,6 +76,6 @@ nav ul li a{
   width: 550px;
   height: 550px;
   position: absolute;
-  top: 65%;
+  top: 117%;
   transform: translateY(-50%);
 }
